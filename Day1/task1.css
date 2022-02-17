@@ -1,0 +1,14 @@
+.form-format{
+    border: double gray 3px;
+    height: 200 px;
+    width: 230px;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 13.5%;
+}
+input[type="text"],input[type="email"]{
+    margin: 5px;
+    padding: 5px;
+    background-color: azure;
+    border: dotted lightgray 1px;
+}
