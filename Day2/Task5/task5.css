@@ -1,0 +1,186 @@
+.header{
+    
+    background-color: blueviolet;
+    color: white;
+    
+    
+}
+body{
+    padding:  0px;
+    margin: 0px;
+}
+.body{
+    height: auto;
+    max-width: 100%;
+    padding-bottom: 10px;  
+}
+.footer{
+    margin-top: 565px;
+    text-align: center;
+    background-color: blueviolet;
+    color: whitesmoke;
+    
+    height: 50px;
+    width: 1250px;
+    
+}
+.flats{
+    
+    margin-left:500px;
+}
+
+.cover{
+    height: auto;
+    max-width: 100%;
+}
+
+.bunglows{
+    
+    margin-left: 50px;
+}
+.home{
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.rawhouse{
+    margin-left: 50px;
+}
+.pg{
+    
+    margin-left: 50px;
+}
+.hotels{
+    margin-left: 50px;
+}
+
+.font{
+    font-family: "proxima-nova",sans-serif;
+    color: #58595b;
+}
+
+.firstbody{
+    margin: 0px 80px;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 16px;
+    color: #58595b;
+    opacity: 0.7;
+    /* background-color: brown; */
+}
+
+.body2{
+    width: 100%;
+    height: 600px;
+    background-color: #f2f2f2;
+}
+
+.main{
+    margin: 0px 80px;
+    /* border: solid black 1px; */
+}
+
+.submain1{
+    margin-top: 60px;
+}
+
+.childmain1{
+    font-size: 28px;
+    color: #58595b;
+}
+
+.childmain2{
+    font-size: 15px;
+    padding: 10px 0 10px 0;
+    color: #58595b;
+}
+
+.submain2{
+    height: 400px;
+    width: 100%;
+    /* background-color: aqua; */
+    float: left;
+}
+
+.maincart{
+    height: 300px;
+    width: 200px;   
+    margin-left: 30px;
+    float: left;
+}
+
+.cart1{
+    height: 300px;
+    width:200px ;
+    /* border: solid black 1px; */
+}
+
+
+.cardimage{
+    height: 150px;
+    width: 100%;
+}
+
+.cart2{
+    background-color: white;
+}
+
+.cardbutton{
+    text-align: center;
+}
+
+.body3{
+    height: 300px;
+    width: 100%;
+    background-color: #6e3d7c;
+}
+
+.body3-1{
+    height: 190px;
+    width: 300px;
+    margin: 50px 0px 0px 50px;
+    float: left;
+    font-size: 20px;
+    color: white;
+}
+
+.body3-1 div{
+    margin:5px;
+}
+
+.body3-2{
+    height: 190px;
+    width: 400px;
+    margin: 50px 0px 0px 120px;
+    float: left;
+}
+
+.body3-2-1{
+    margin-top: 20px;
+    color: white;
+    font-size: 14px;
+}
+
+input[type=text]{
+    margin-top: 20px;
+    border-radius: 1px;
+    border: none;
+    box-shadow: 1px;
+    height: 30px;
+    width: 250px;
+    background-color: white;
+}
+
+.email1{
+    background-color: black;
+    height: 20px;
+    width: 30px;
+}
+
+.body4{
+    height: 75px;
+    width:90%;
+    background-color: #f6f6f7;
+    margin: 0px 65px;
+}
