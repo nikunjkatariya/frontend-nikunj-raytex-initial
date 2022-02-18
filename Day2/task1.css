@@ -1,0 +1,20 @@
+.child{
+    border: dotted gray 2px;
+    height: 200px;
+    width: 142px;
+    float: left;
+    margin: 10px;
+}
+
+.grandchild{
+    border:solid black 1px;
+    text-align: center;
+    margin-top: 60%;
+}
+
+.buttonchild{
+    height: 20px;
+    width: 142px;
+    border: none;
+    margin-top: 55%;
+}
