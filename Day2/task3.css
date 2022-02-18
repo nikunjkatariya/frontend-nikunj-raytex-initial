@@ -1,0 +1,36 @@
+body{
+
+}
+
+.grandparent{
+    height: 500px;
+    border: solid black 1px;
+}
+
+.parent1{
+    height: 500px;
+    width: 50%;
+    float: left;
+    text-align: center;
+    margin-top: 140px;
+}
+
+.parent2{
+    height: 500px;
+    width: 50%;
+    float: left;
+    background-color: aquamarine;
+}
+.coverphoto{
+    border:solid black 1px ;
+    height: 200px;
+}
+
+.title{
+    font-size: 30px;
+    margin-left: 300px;
+}
+
+.child{
+    font-style: italic;
+}
