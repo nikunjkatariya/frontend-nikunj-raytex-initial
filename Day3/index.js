@@ -43,3 +43,10 @@ function evenoddfunction(){
     }
 }
 
+//Array
+var number = [1,2,3,4,5,6,7];
+
+//Date Function
+
+var date = new Date();
+console.log(date);
