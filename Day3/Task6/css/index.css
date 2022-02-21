@@ -1,0 +1,215 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Navigation Bar */
+.navbar{
+    height: 90px;
+    width: 100%;
+    background-color: cornflowerblue;
+    position: fixed;
+    z-index: 3;
+}
+
+.logo{
+    float: left;
+}
+
+.logoimage{
+    margin: 10px;
+    height: 70px;
+    width: 70px;
+    float: left;
+}
+
+.logotext{
+    font-size: 50px;
+    margin-top: 10px;
+    float: left;
+}
+
+.navs{
+    margin: 25px 0px 0px 330px ;
+    /* background-color: blueviolet; */
+    height: 40px;
+    width: 600px;
+    float: left;
+}
+
+.nav{
+    float: left;
+    /* background-color: wheat; */
+    margin:10px 0px 0px 60px ;
+    font-size: 24px;
+    text-decoration: none;
+    color: snow;
+}
+
+.nav:hover{
+    color: cyan;
+    /* text-decoration-line:solid black 1px ; */
+}
+
+.icon{
+    
+}
+
+/* Body Part */
+.body{
+    height: 1200px;
+    width: 100%;
+    /* background-color: aquamarine; */
+    margin-top: 90px;
+    position: absolute;
+    z-index: 2;
+}
+
+.cover{
+    height: 500px;
+    width: 100%;
+}
+
+.coverimage{
+    height: 500px;
+    width: 100%;
+}
+
+.box{
+    height: 300px;
+    width: 80%;
+    margin: 30px 140px;
+    background-color: beige;
+    border-radius: 10px;
+    box-shadow: 10px 10px lightblue;
+}
+
+.boxcontent{
+    margin: 20px;
+    /* background-color: aqua; */
+    height: 250px;
+    width: 50%;
+    float: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.boxcontent-head{
+    font-size: 30px;
+    color: darkslategrey;
+}
+
+.content-head{
+    border-bottom: solid darkslategray 2px ;
+}
+
+.boxcontent-bottom{
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.boximage{
+    /* background-color: aqua; */
+    height: 300px;
+    width: 40%;
+    margin-left: 67.5px;
+    float: left;
+}
+
+.boximagecss{
+    height:300px;
+    width: 100%;
+    border-radius: 0px 10px 10px 0px;
+}
+
+.boximage2{
+    /* background-color: aqua; */
+    height: 300px;
+    width: 40%;
+    margin-left: 0px;
+    float: left;
+}
+
+.boximagecss2{
+    height:300px;
+    width: 100%;
+    border-radius: 10px 0px 0px 10px;
+}
+
+.border{
+    border-right:solid grey 2px ;
+    background-color: blanchedalmond;
+}
+
+.contact{
+    margin: 100px 0px 0px 120px;
+}
+
+.feedback{
+    margin: 20px;
+    /* background-color: aqua; */
+    height: 250px;
+    width: 50%;
+    float: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.feedback-mail{
+    height: 30px;
+    width: 80%;
+    background-color: rgb(92, 235, 235);
+    margin: 10px 0px 0px 50px;    
+    border-radius: 10px 10px;
+    font-size: 15px;
+}
+
+.boxinput{
+    height: 120px;
+    width: 80%;
+    background-color: rgb(92, 235, 235);
+    margin: 10px 0px 0px 50px;    
+    border-radius: 10px 10px;
+    font-size:14px ;
+}
+
+.submitbtn{
+    height: 30px;
+    width: 80%;
+    background-color: rgb(9, 97, 97);
+    margin: 10px 0px 0px 50px;    
+    border-radius: 20px 20px;
+    font-size:14px ;
+}
+
+.card{
+    height: 350px;
+    width: 220px;
+    background-color: aqua;
+    border-radius: 10px 10px;
+    margin: 20px;
+    box-shadow: 10px 10px;
+    float: left;
+    /* position: absolute; */
+}
+
+.card-image{
+    margin: 20px 20px 5px 20px;
+    height: 250px;
+    width: 180px;
+}
+
+.card-btn{
+    width: 180px;
+    margin-left: 20px;
+    height: 35px;
+    background-color:rgb(43, 212, 28);
+}
+
+.card-btn:hover{
+    background-color: #111;
+}
+
+.detail{
+    margin-left:20px ;
+    font-size: 12px;
+}
