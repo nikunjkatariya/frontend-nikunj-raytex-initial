@@ -12,7 +12,7 @@ function authentication()
         alert("Data Submitted Successfully!!");
     }
 }
-
+var count=0;    
 function view(x)
 {
     switch (x) {
@@ -20,26 +20,36 @@ function view(x)
             console.log("Memory");
             document.getElementById("book1").innerHTML="Memory";
             alert("Memory");
+            count++;
+            document.getElementById("iconcount").innerHTML=count;
             break;
         case 2:
             console.log("Bettle Lee Crosby");
             document.getElementById("book2").innerHTML="Bettle Lee Crosby";
             alert("Bettle Lee Crosby");
+            count++;
+            document.getElementById("iconcount").innerHTML=count;
             break;
         case 3:
             console.log("Pieces of Light");
             document.getElementById("book3").innerHTML="Pieces of Light";
-            alert("Pieces of Light");            
+            alert("Pieces of Light");
+            count++;
+            document.getElementById("iconcount").innerHTML=count;
             break;
         case 4:
             console.log("The Dreaming Arts");
             document.getElementById("book4").innerHTML="The Dreaming Arts";
             alert("The Dreaming Arts");
+            count++;
+            document.getElementById("iconcount").innerHTML=count;
             break;
         case 5:
             console.log("The Treachery of Beautiful Things");
             document.getElementById("book5").innerHTML="The Treachery of Beautiful Things";
             alert("The Treachery of Beautiful Things");
+            count++;
+            document.getElementById("iconcount").innerHTML=count;
             break;
     }
 }

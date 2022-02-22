@@ -53,9 +53,26 @@ body{
 }
 
 .icon{
-    
+    margin-top: 25px;
+    float: left;
+    height: 35px;
+    width: 35px;
+    /* background-color: chartreuse; */
 }
 
+.notification{
+    position: absolute;
+    margin-left: 10px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+}
+
+.icon-img{
+    margin-top: 15px;
+    height: 30px;
+    width: 30px;
+}
 /* Body Part */
 .body{
     height: 1200px;
